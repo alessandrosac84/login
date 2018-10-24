@@ -1,0 +1,13 @@
+com/memorynotfound/spring/security/constraint/FieldMatch$List.class
+com/memorynotfound/spring/security/repository/UserRepository.class
+com/memorynotfound/spring/security/Run.class
+com/memorynotfound/spring/security/config/SecurityConfig.class
+com/memorynotfound/spring/security/web/dto/UserRegistrationDto.class
+com/memorynotfound/spring/security/model/User.class
+com/memorynotfound/spring/security/constraint/FieldMatchValidator.class
+com/memorynotfound/spring/security/service/UserServiceImpl.class
+com/memorynotfound/spring/security/constraint/FieldMatch.class
+com/memorynotfound/spring/security/web/UserRegistrationController.class
+com/memorynotfound/spring/security/web/MainController.class
+com/memorynotfound/spring/security/service/UserService.class
+com/memorynotfound/spring/security/model/Role.class

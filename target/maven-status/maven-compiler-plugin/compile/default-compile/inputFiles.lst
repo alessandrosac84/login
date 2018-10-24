@@ -1,0 +1,12 @@
+/Users/Alessandro/workspace-others/register-user/src/main/java/com/memorynotfound/spring/security/constraint/FieldMatch.java
+/Users/Alessandro/workspace-others/register-user/src/main/java/com/memorynotfound/spring/security/service/UserService.java
+/Users/Alessandro/workspace-others/register-user/src/main/java/com/memorynotfound/spring/security/constraint/FieldMatchValidator.java
+/Users/Alessandro/workspace-others/register-user/src/main/java/com/memorynotfound/spring/security/config/SecurityConfig.java
+/Users/Alessandro/workspace-others/register-user/src/main/java/com/memorynotfound/spring/security/model/Role.java
+/Users/Alessandro/workspace-others/register-user/src/main/java/com/memorynotfound/spring/security/model/User.java
+/Users/Alessandro/workspace-others/register-user/src/main/java/com/memorynotfound/spring/security/service/UserServiceImpl.java
+/Users/Alessandro/workspace-others/register-user/src/main/java/com/memorynotfound/spring/security/Run.java
+/Users/Alessandro/workspace-others/register-user/src/main/java/com/memorynotfound/spring/security/web/MainController.java
+/Users/Alessandro/workspace-others/register-user/src/main/java/com/memorynotfound/spring/security/repository/UserRepository.java
+/Users/Alessandro/workspace-others/register-user/src/main/java/com/memorynotfound/spring/security/web/UserRegistrationController.java
+/Users/Alessandro/workspace-others/register-user/src/main/java/com/memorynotfound/spring/security/web/dto/UserRegistrationDto.java
